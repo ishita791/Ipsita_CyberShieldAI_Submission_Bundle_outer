@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield AI — Phishing & URL Threat Detection System",
+  "description": "Defensive cybersecurity system analyzing URLs and suspicious emails to detect phishing, explain risk indicators, and provide mitigation recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
